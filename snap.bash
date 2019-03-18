@@ -1,0 +1,11 @@
+python 0ssapre_table.py
+sleep 2s
+python 1ssa_numba.py
+sleep 2s
+pythonw 2picking_numba.py
+sleep 2s
+python 3locate_numba.py
+sleep 2s
+python 4magnitudeauto.py
+sleep 2s
+pythonw 5readin.py
