@@ -67,7 +67,7 @@ print(peaktimes)
 
 st=[]
 n=0
-for i in st:
+for i in range(0,12420):
     with open('./H3/data/trace' + str(n) + '.p', 'rb') as f:
         comein=pickle.load(f)
     st.append(comein[0])
