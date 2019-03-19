@@ -65,10 +65,13 @@ peaktimes = detect_peaks(x=brmax, mph=1, mpd=0)
 
 print(peaktimes)
 
-with open('./H3/H3data.p', 'rb' ) as f:
-    comein=pickle.load(f)
-    
-st = comein[0]
+st=[]
+n=0
+for i in st:
+    with open('./H3/data/trace' + str(n) + '.p', 'rb') as f:
+        comein=pickle.load(f)
+    st.append(comein[0])
+    n=n+1
 
 vertical=[]
 for i in range(0,69):
