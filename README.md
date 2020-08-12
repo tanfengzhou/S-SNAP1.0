@@ -1,6 +1,6 @@
 # S-SNAP1.0
 
-The program correponds to the paper named "Seismicity-scanning Based on Navigated Automatic Phase-picking" by Tan et al., published in JGR: Solid Earth. 
+The program correponds to the paper named "Seismicity-scanning Based on Navigated Automatic Phase-picking" by Tan et al. 2019. JGR: Solid Earth. 
 
 # Run the tests
 
