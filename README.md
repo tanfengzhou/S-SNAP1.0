@@ -16,4 +16,4 @@ If you want to run tests for hour 1 and hour 2, you need to open source code beg
 
 # Further information
 
-This code was written by Fengzhou Tan in University of Victoria, Canada. If you have more questions, please feel free to contact Fengzhou at ftan@uvic.ca. 
+This code was written by Fengzhou Tan in University of Victoria, Canada. If you have more questions, please feel free to contact Fengzhou at fengzhou.tan@gmail.com. 
